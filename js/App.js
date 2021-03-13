@@ -62,7 +62,7 @@ class App{
     if (pendingResourceNames.length === 0) {
       // animate and draw scene
       this.scene.update(this.gl, this.keysPressed);
-      this.overlay.innerHTML = `<font color="white">Space, the final frontier...</font>`;
+      this.overlay.innerHTML = `<font color="white">Use arrow keys to move, space bar to shoot, R to respawn</font>`;
     } else {
       this.overlay.innerHTML = `<font color="red">Loading: ${pendingResourceNames}</font>`;
     }
