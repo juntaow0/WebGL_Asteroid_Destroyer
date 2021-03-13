@@ -1,0 +1,5 @@
+1. Avatar control: 2 fast 2 furious
+2. Collisions: Rubberoids
+3. Texture animation: Boom
+4. Parenting: Flames
+5. Spawn: Shoot 'em up
