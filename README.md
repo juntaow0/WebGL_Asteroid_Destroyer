@@ -1,8 +1,8 @@
-Press SPACE to shoot
-Press UP to accelerate
-Press DOWN to decelerate
-Press LEFT to turn left
-Press RIGHT to turn right
+Press SPACE to shoot  
+Press UP to accelerate  
+Press DOWN to decelerate  
+Press LEFT to turn left  
+Press RIGHT to turn right  
 
 Playable Demo: https://juntaow0.github.io/WebGL_Asteroid_Destroyer/
 
